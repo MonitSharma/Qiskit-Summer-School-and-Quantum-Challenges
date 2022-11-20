@@ -1,53 +1,100 @@
-# Qiskit Summer School and Quantum Challenges
+# Solutions to Qiskit Challenges and Summer School
 
-![alt text](https://github.com/MonitSharma/Qiskit_Summer_School_and_Quantum_Challenges/blob/main/42869700-c4cc-11e9-9e6c-497e53a7d861.png)
-
-
-This repository contain links to notes, lectures and solutions to the the qiskit summer school from year 2020 to 2022 and all the Quantum Challenges happened in between.
-
-----
-## What is Qiskit Summer School?
-
-The Qiskit Global Summer School is a virtual two-week event designed to empower the next generation of quantum developers with the knowledge to write quantum applications on their own. It is a one-of-a-kind opportunity that will teach students with little to no quantum computing experience to write quantum algorithms, understand superconducting device physics, and solve quantum chemistry problems using Qiskit. The Qiskit Global Summer School is designed to have minimal prerequisites, and anyone with familiarity with matrix multiplication and some experience with Python programming is encouraged to apply.
-
-----
-
-## Qiskit Summer School 2022 - Quantum Simulations
-
-
-![alt text](https://github.com/MonitSharma/Qiskit_Summer_School_and_Quantum_Challenges/blob/main/images/2022_1.png)
-
-The Qiskit Global Summer School 2022 is a two-week intensive summer program designed to empower the quantum researchers and developers of tomorrow with the skills and know-how to explore the world of quantum computing and its applications. This third-annual summer school provided a focused introduction to quantum computing and its applications to quantum simulation, with a specific focus on quantum chemistry.
-
-
- 
+This repository contains my work on the Quantum Challenges organised by IBMs [Qiskit](https://qiskit.org/).
+This work includes the solutions to the Qiskit summer schools and all the challenges in between.
 
 
 -----
 
-## Qiskit Summer School 2021 - Quantum Machine Learning
+# Contents
 
 
-![alt text](https://github.com/MonitSharma/Qiskit_Summer_School_and_Quantum_Challenges/blob/main/images/2021summer.jpg)
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Sr. No</b></th>
+    <th class="tg-yw4l"><b>Title</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Code</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">1.</td>
+    <td class="tg-yw4l">IBM Quantum Summer School 2020 </td>
+    <td class="tg-yw4l">Introduction to Quantum Computing and Quantum Algorithms.</td>
+    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Quantum-Machine-Learning-Projects/tree/main/Galaxy%20Detection%20using%20Quantum%20Machine%20Learning">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
+</a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">2.</td>
+    <td class="tg-yw4l">IBM Quantum Challenge Fall 2020</td>
+    <td class="tg-yw4l">Exercise on Basic Quantum Circuits,Measurement, BB84 and Circuit Decomposition</td>
+    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Quantum-Machine-Learning-Projects/tree/main/Quantum%20Convolutinal%20with%20Data%20Re-Uploadation">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
+</a></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">3.</td>
+    <td class="tg-yw4l">IBM Quantum Summer School 2021</td>
+    <td class="tg-yw4l">Introduction to Quantum Machine Learning like VQE and QAOA</td>
+    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Quantum-Machine-Learning-Projects/tree/main/Quantum%20Support%20Vector%20Machine%20on%20QCD">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
+</a></td>
+  </tr>
 
-This year, the QGSS organizers decided to hone in on QML given the immense interest in the topic generally. They hoped to equip students with a pragmatic view of what’s actually possible in this arguably-quite-hyped field. The course began with a recap of quantum computing and an introduction to machine learning, followed by a deep dive into QML theory, and finally, an introduction to applications using real quantum computers. The school was led by some of IBM’s leading researchers in QML, and consisted of 20 live lectures plus 5 lab sessions where participants got to apply what they had learned using Qiskit, the open-source quantum computing software library.
+
+  <tr>
+    <td class="tg-yw4l">4.</td>
+    <td class="tg-yw4l">IBM Quantum Summer Challenge Africa 2021</td>
+    <td class="tg-yw4l">Quantum Computing challenge that focuses on the fields of optimization, finance, and chemistry</td>
+    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Quantum-Machine-Learning-Projects/tree/main/Quantum%20Support%20Vector%20Machine%20on%20QCD">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
+</a></td>
+  </tr>
+
+  <tr>
+    <td class="tg-yw4l">5.</td>
+    <td class="tg-yw4l">IBM Quantum Challenge Fall 2021</td>
+    <td class="tg-yw4l">Collaborating with research and industry across the world</td>
+    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Quantum-Machine-Learning-Projects/tree/main/Quantum%20Support%20Vector%20Machine%20on%20QCD">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
+</a></td>
+  </tr>
 
 
-The 2021 summer school content has been released and is now available to all! This includes 23+ hours of recorded lectures and lab run-through sessions, 5 applied lab exercises, lecture notes, additional learning resources, and FAQs for each segment. You can check the content [here](https://qiskit.org/learn/summer-school/quantum-computing-and-quantum-learning-2021/) 
+  <tr>
+    <td class="tg-yw4l">6.</td>
+    <td class="tg-yw4l">IBM Quantum Open Science Prize 2021</td>
+    <td class="tg-yw4l">The contest promised a $40,000 award for the most-accurate simulation of a quantum Hamiltonian using one of two methods, plus a bonus $20,000 to the overall winner.</td>
+    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Quantum-Machine-Learning-Projects/tree/main/Quantum%20Support%20Vector%20Machine%20on%20QCD">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
+</a></td>
+  </tr>
 
-![alt text](https://github.com/MonitSharma/Qiskit_Summer_School_and_Quantum_Challenges/blob/main/images/2021.png)
+  <tr>
+    <td class="tg-yw4l">7.</td>
+    <td class="tg-yw4l">IBM Quantum Summer School 2022</td>
+    <td class="tg-yw4l">Introduction to Quantum Simulations and Chemistry</td>
+    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Quantum-Machine-Learning-Projects/tree/main/Quantum%20Support%20Vector%20Machine%20on%20QCD">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
+</a></td>
+  </tr>
+  
 
-----
-
-## Qiskit Summer School 2020 - Quantum Cmputation and Quantum Algorithms
-
-The Qiskit Global Summer School took place from July 20 through July 31, 2020. In the first week, day 1 & 2 were focused on basics of quantum computing and the implementations of Deutsch-Jozsa algorithm and Grover search algorithm by [Elisa Baumer](https://scholar.google.es/citations?user=KgpXZmgAAAAJ&hl=en); day 3 & 4 enlightened us with Shor’s algorithm including Quantum Fourier Transform and Quantum Phase Estimation by [Abe Asfaw](https://scholar.google.com/citations?user=c2uhW4MAAAAJ&hl=en); and [James Wootton](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-JWO) took us through the nuances of Error correction on day-5. Week 2- day 6 & 7 were about Superconducting qubits by [Zlatko Minev](https://www.zlatko-minev.com/); day 8 & 9 were focussed on Quantum Chemistry by [Antonio Mezzacapo](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-mezzacapo) and [Abhinav Kandala](https://scholar.google.com/citations?user=2aM4IzYAAAAJ&hl=en); and on day 10 we got the chance to interact with an expert-panel discussion on Careers in Quantum Computing hosted by [Amira Abbas](https://scholar.google.co.uk/citations?user=-v3wO_UAAAAJ&hl=en). The panel included Jay Gambetta, Marina Radulaski, K. Birgitta Whaley, Steve Girvin, Monika Schleier-Smith, and John Preskill.
-
-This summer school covered the content equivalent to a 6-month university course and was pretty comprehensive. IBM Quantum released the content from summer school in a much arranged manner for the world to learn about Quantum Computing. The lectures and labs can be found [here](https://qiskit.org/learn/summer-school/introduction-to-quantum-computing-and-quantum-hardware-2020/).
-
+  <tr>
+    <td class="tg-yw4l">8.</td>
+    <td class="tg-yw4l">IBM Quantum Challenge Fall 2022</td>
+    <td class="tg-yw4l">Introduction to Qiskit Runtime</td>
+    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Quantum-Machine-Learning-Projects/tree/main/Quantum%20Support%20Vector%20Machine%20on%20QCD">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
+</a></td>
+  </tr>
+  
+  
+ 
 
  
-![alt text](https://github.com/MonitSharma/Qiskit_Summer_School_and_Quantum_Challenges/blob/main/images/2020.jpg)
-
-
----
+  </table> 
+  
