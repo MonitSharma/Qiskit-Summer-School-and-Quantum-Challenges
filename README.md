@@ -91,6 +91,15 @@ This work includes the solutions to the Qiskit summer schools and all the challe
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
 </a></td>
   </tr>
+
+  <tr>
+    <td class="tg-yw4l">9.</td>
+    <td class="tg-yw4l">IBM Quantum Challenge Spring 2023</td>
+    <td class="tg-yw4l">Introduction to Dynamic Circuits</td>
+    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Quantum-Machine-Learning-Projects/tree/main/Quantum%20Support%20Vector%20Machine%20on%20QCD">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
+</a></td>
+  </tr>
   
   
  
