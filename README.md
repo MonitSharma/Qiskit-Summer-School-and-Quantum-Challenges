@@ -5,109 +5,64 @@
 This repository contains my work on the Quantum Challenges organised by IBMs [Qiskit](https://qiskit.org/).
 This work includes the solutions to the Qiskit summer schools and all the challenges in between.
 
-Check the articles written on them here:
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/list/ibm-quantum-challenges-a4c03faa5b72)
-
------
-
-# Contents
 
 
-<table class="tg">
-  <tr>
-    <th class="tg-yw4l"><b>Sr. No</b></th>
-    <th class="tg-yw4l"><b>Title</b></th>
-    <th class="tg-yw4l"><b>Description</b></th>
-    <th class="tg-yw4l"><b>Code</b></th>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">1.</td>
-    <td class="tg-yw4l">IBM Quantum Summer School 2020 </td>
-    <td class="tg-yw4l">Introduction to Quantum Computing and Quantum Algorithms.</td>
-    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Summer%20School%202020">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
-</a></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">2.</td>
-    <td class="tg-yw4l">IBM Quantum Challenge Fall 2020</td>
-    <td class="tg-yw4l">Exercise on Basic Quantum Circuits,Measurement, BB84 and Circuit Decomposition</td>
-    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Challenge%20Fall%202020">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
-</a></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-yw4l">3.</td>
-    <td class="tg-yw4l">IBM Quantum Summer School 2021</td>
-    <td class="tg-yw4l">Introduction to Quantum Machine Learning like VQE and QAOA</td>
-    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Summer%20School%202021">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
-</a></td>
-  </tr>
+## About Qiskit
+Qiskit is an open-source framework developed by IBM for programming quantum computers. It provides a rich set of tools, libraries, and resources to facilitate quantum computation research and education. With Qiskit, you can learn, simulate, and execute quantum circuits on real quantum hardware devices or simulators.
 
 
-  <tr>
-    <td class="tg-yw4l">4.</td>
-    <td class="tg-yw4l">IBM Quantum Summer Challenge Africa 2021</td>
-    <td class="tg-yw4l">Quantum Computing challenge that focuses on the fields of optimization, finance, and chemistry</td>
-    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Challenge%20Africa%202021">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
-</a></td>
-  </tr>
+## Table
 
-  <tr>
-    <td class="tg-yw4l">5.</td>
-    <td class="tg-yw4l">IBM Quantum Challenge Fall 2021</td>
-    <td class="tg-yw4l">Collaborating with research and industry across the world</td>
-    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Challenge%20Fall%202021">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
-</a></td>
-  </tr>
+### Summer Schools
+- [IBM Quantum Summer School 2020](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Summer%20School%202020) : Introduction to Quantum Computing and Quantum Algorithms.
+- [IBM Quantum Summer School 2021](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Summer%20School%202021) : Introduction to Quantum Machine Learning like VQE and QAOA
+- [IBM Quantum Summer School 2022](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Summer%20School%202022) : Introduction to Quantum Simulations and Chemistry
+- [IBM Quantum Summer School 2023](#ibm-quantum-summer-school-2023)
 
 
-  <tr>
-    <td class="tg-yw4l">6.</td>
-    <td class="tg-yw4l">IBM Quantum Open Science Prize 2021</td>
-    <td class="tg-yw4l">The contest promised a $40,000 award for the most-accurate simulation of a quantum Hamiltonian using one of two methods, plus a bonus $20,000 to the overall winner.</td>
-    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Open%20Science%20Prize%202021">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
-</a></td>
-  </tr>
+### Quantum Challenges Fall
+- [IBM Quantum Challenge Fall 2020](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Challenge%20Fall%202020): Exercise on Basic Quantum Circuits,Measurement, BB84 and Circuit Decomposition
+- [IBM Quantum Challenge Fall 2021](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Challenge%20Fall%202021) : Collaborating with research and industry across the world
+- [IBM Quantum Challenge Fall 2022](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Challenge%20Fall%202022) : Introduction to Qiskit Runtime
 
-  <tr>
-    <td class="tg-yw4l">7.</td>
-    <td class="tg-yw4l">IBM Quantum Summer School 2022</td>
-    <td class="tg-yw4l">Introduction to Quantum Simulations and Chemistry</td>
-    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Summer%20School%202022">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
-</a></td>
-  </tr>
-  
 
-  <tr>
-    <td class="tg-yw4l">8.</td>
-    <td class="tg-yw4l">IBM Quantum Challenge Fall 2022</td>
-    <td class="tg-yw4l">Introduction to Qiskit Runtime</td>
-    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Challenge%20Fall%202022">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
-</a></td>
-  </tr>
+### Quantum Challenges Spring
+- [IBM Quantum Challenge Spring 2021](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Challenge%20Spring%202021) : Five quantum programming exercises, each representing a milestone from quantum computing history from 1980 until today
+- [IBM Quantum Challenge Spring 2022](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Challenge%20Spring%202022) : Introduction to Trotterization and Simulations 
+- [IBM Quantum Challenge Spring 2023](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Challenge%20Spring%202023) : Introduction to Dynamic Circuits
 
-  <tr>
-    <td class="tg-yw4l">9.</td>
-    <td class="tg-yw4l">IBM Quantum Challenge Spring 2023</td>
-    <td class="tg-yw4l">Introduction to Dynamic Circuits</td>
-    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Challenge%20Spring%202023">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width = '' >
-</a></td>
-  </tr>
-  
-  
- 
+### Other Quantum Challenges
+- [IBM Quantum Open Science Prize 2021](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Open%20Science%20Prize%202021) : Doing the most-accurate simulation of a quantum Hamiltonian
+- [IBM Quantum Challenge Africa 2021](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Challenge%20Africa%202021) : Quantum Computing challenge that focuses on the fields of optimization, finance, and chemistry
 
- 
-  </table> 
+
+
+
+## Content
+
+
+
+
+
+
+### IBM Quantum Challenge Spring 2023
+
+Learn about the software used to write the Qiskit (Python and Jupyter Notebooks), and set up your environment to reproduce the experiments.
+
+| Serial Number | Title                                     | Links     | Medium                                                                                |
+| ------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
+| 1             | Understanding Dynamic Circuits  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/blob/main/IBM%20Quantum%20Challenge%20Spring%202023/lab1.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/ibm-quantum-challenge-spring-2023-lab-1-fd80c4b5cda1) |
+| 2             | Understanding Quantum Teleportation  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/blob/main/IBM%20Quantum%20Challenge%20Spring%202023/lab2.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/ibm-quantum-challenge-spring-2023-lab-2-d3b993807b61) |
+| 3             | Understanding Iterative Phase Estimation (IPE)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/blob/main/IBM%20Quantum%20Challenge%20Spring%202023/lab3.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/ibm-quantum-challenge-spring-2023-lab-3-9b92e3152bfc) |
+| 4             | Understanding Error Corrections  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/blob/main/IBM%20Quantum%20Challenge%20Spring%202023/lab4.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/ibm-quantum-challenge-spring-2023-lab-4-541a7e0e6478) |
+| 5             | Understanding the GHZ State  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/blob/main/IBM%20Quantum%20Challenge%20Spring%202023/lab5.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/ibm-quantum-challenge-spring-2023-lab-5-6d932eb1922) |
+
+
+
+
+
+
+
+
+
   
