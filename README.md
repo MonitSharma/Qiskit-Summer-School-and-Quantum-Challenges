@@ -36,28 +36,7 @@ Qiskit is an open-source framework developed by IBM for programming quantum comp
 - [IBM Quantum Challenge Africa 2021](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Challenge%20Africa%202021) : Quantum Computing challenge that focuses on the fields of optimization, finance, and chemistry
 
 
-
-
-## Content
-
-
-
-
-
-
-### IBM Quantum Challenge Spring 2023
-
-Learn about the software used to write the Qiskit (Python and Jupyter Notebooks), and set up your environment to reproduce the experiments.
-
-| Serial Number | Title                                     | Links     | Medium                                                                                |
-| ------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
-| 1             | Understanding Dynamic Circuits  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/blob/main/IBM%20Quantum%20Challenge%20Spring%202023/lab1.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/ibm-quantum-challenge-spring-2023-lab-1-fd80c4b5cda1) |
-| 2             | Understanding Quantum Teleportation  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/blob/main/IBM%20Quantum%20Challenge%20Spring%202023/lab2.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/ibm-quantum-challenge-spring-2023-lab-2-d3b993807b61) |
-| 3             | Understanding Iterative Phase Estimation (IPE)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/blob/main/IBM%20Quantum%20Challenge%20Spring%202023/lab3.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/ibm-quantum-challenge-spring-2023-lab-3-9b92e3152bfc) |
-| 4             | Understanding Error Corrections  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/blob/main/IBM%20Quantum%20Challenge%20Spring%202023/lab4.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/ibm-quantum-challenge-spring-2023-lab-4-541a7e0e6478) |
-| 5             | Understanding the GHZ State  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/blob/main/IBM%20Quantum%20Challenge%20Spring%202023/lab5.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/ibm-quantum-challenge-spring-2023-lab-5-6d932eb1922) |
-
-
+- [IBM Quantum Challenge 2024]() : This year’s challenge showed the new features of Qiskit 1.0, while demonstrating the differences from previous versions. 
 
 
 
