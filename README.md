@@ -17,7 +17,7 @@ Qiskit is an open-source framework developed by IBM for programming quantum comp
 - [IBM Quantum Summer School 2020](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Summer%20School%202020) : Introduction to Quantum Computing and Quantum Algorithms.
 - [IBM Quantum Summer School 2021](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Summer%20School%202021) : Introduction to Quantum Machine Learning like VQE and QAOA
 - [IBM Quantum Summer School 2022](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Summer%20School%202022) : Introduction to Quantum Simulations and Chemistry
-- [IBM Quantum Summer School 2023](#ibm-quantum-summer-school-2023)
+- [IBM Quantum Summer School 2023](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Summer%20School%202023) : Theory to Implementation
 
 
 ### Quantum Challenges Fall
