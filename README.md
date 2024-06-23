@@ -36,7 +36,7 @@ Qiskit is an open-source framework developed by IBM for programming quantum comp
 - [IBM Quantum Challenge Africa 2021](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Challenge%20Africa%202021) : Quantum Computing challenge that focuses on the fields of optimization, finance, and chemistry
 
 
-- [IBM Quantum Challenge 2024]() : This year’s challenge showed the new features of Qiskit 1.0, while demonstrating the differences from previous versions. 
+- [IBM Quantum Challenge 2024](https://github.com/MonitSharma/Qiskit-Summer-School-and-Quantum-Challenges/tree/main/IBM%20Quantum%20Challenge%202024) : This year’s challenge showed the new features of Qiskit 1.0, while demonstrating the differences from previous versions. 
 
 
 
